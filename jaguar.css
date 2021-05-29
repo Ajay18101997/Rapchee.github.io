@@ -1,0 +1,361 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main1{
+    max-width: 1900px;
+}
+.firstpage{
+    background-image: url(abc/IMAGES/Img-banner.jpg);
+    width: 100%;
+    height: 650px;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#rapcheelogo{
+    margin-top: 50px;
+    margin-left: 165px;
+    float: left;
+}
+#contactus{
+    padding-top: 50px;
+    padding-right: 70px;
+    color: white;
+    font-size: 16px;
+    float: right;
+}
+#experience{
+    padding-top: 50px;
+    padding-right: 70px;
+    color: white;
+    font-size: 16px;
+    float: right;
+}
+#content{
+    padding-top: 50px;
+    padding-right: 70px;
+    color: white;
+    font-size: 16px;
+    float: right;
+}
+#aboutus{
+    padding-top: 50px;
+    padding-right: 70px;
+    color: blue;
+    font-size: 16px;
+    float: right;
+}
+#pg{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 225px;
+    font-size: 78px;
+    color: white;
+    font-weight: bold;
+}
+#pg1{
+    font-size: 30px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.ajay{
+    width: 320px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 42px;
+    margin-bottom: 41px;
+}
+#gp{
+    float: left;
+}
+#as{
+    float: left;
+    margin-left: 20px;
+}
+.secondpage{
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-image: url(abc/IMAGES/Img-rapchee-content-bg-img.png);
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    background-size: cover;
+}
+#rc{
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 40px;
+} 
+#foe{
+    margin: 0 auto;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+#langimg{
+    float: right;
+    padding-right: 127px;
+    padding-top: 186px;
+    margin-bottom: 26px;
+}
+#rcl{
+    font-size: 48px;
+    padding-left: 90px;
+    padding-top: 261px;
+    text-align: left;
+    color: white;
+}
+#get{
+    font-size: 25px;
+    padding-left: 85px;
+    color: white;
+}
+.thirdpage{
+    background-image: url(abc/IMAGES/Img-genre-bg-img.png);
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img1{
+    padding-top: 8%;
+    padding-left: 130px;
+    width: 350px;
+    height: 200px;
+    float: left;
+    overflow: right;
+}
+#all{
+    font-size: 65px;
+    color: white;
+    padding-left: 400px;
+    padding-top: 15%;
+    overflow: auto;
+}
+#swi{
+    font-size: 30px;
+    color: white;
+    padding-left: 750px;
+    padding-top: 3%;
+    color: white;
+}
+.fourthpage{
+    background-image: url(abc/IMAGES/img-experience-bg-img.jpg);
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#exp{
+    padding-top: 7%;
+    color: white;
+    padding-left: 550px;
+    font-size: 70px;
+    font-weight: bold;
+}
+#lorem{
+    padding-top: 1%;
+    color: white;
+    padding-left: 600px;
+    font-size: 25px;
+}
+#imgphone{
+    padding-top: 1%;
+    padding-left: 230px;
+    width: 350px;
+    height: 200px;
+}
+#trending{
+    padding-left: 750px;
+    height: 100px;
+    font-size: 45px;
+    color: white;
+}
+#new{
+    padding-left: 750px;
+    font-size: 20px;
+    color: white;
+    height: 100px;
+}
+.fifthpage{
+    background-image: url(abc/IMAGES/Img-about-us-bg-image.jpg);
+    width: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+    background-color: black;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ab{
+    padding-top: 7%;
+    color: white;
+    padding-left: 550px;
+    font-size: 70px;
+    font-weight: bold;
+}
+#at{
+    padding-top: 2%;
+    color: white;
+    padding-left: 50px;
+    font-size: 23px;
+    margin: 0 auto;
+    text-align: center;
+}
+.sixthpage{
+    width: 100%;
+    height: 900px;
+    background-color: black;
+    overflow: auto;
+    background-size: cover;
+}
+#con{
+    padding-top: 7%;
+    color: white;
+    padding-left: 550px;
+    font-size: 70px;
+    font-weight: bold;
+}
+#question{
+    padding-top: 2%;
+    padding-left: 450px;
+    font-size: 30px;
+    color: white;
+}
+#subdiv{
+    margin: 0 auto;
+    width: 93vw;
+    height: 514px;
+    background-color: #2e2e2e;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+#subdiv1{
+    float: left;
+    background-color: #505050;
+    width: 37vw;
+    height: 500px;
+    border-radius: 10px;
+}
+#subdiv11{
+    padding-top: 40px;
+    padding-left: 35px;
+    color:#e8e8e8;
+    font-size: 40px;
+}
+#subdiv12{
+    padding-top: 10px;
+    padding-left: 35px;
+    color: #999999;
+    font-size: 22px;
+}
+#subdiv13{
+    padding-left: 35px;
+    padding-top: 60px;
+}
+#subdiv14{
+    float: right;
+    padding-right: 280px;
+    font-size: 19px;
+    color: white;
+}
+#subdiv15{
+    padding-left: 35px;
+    padding-top: 40px;
+}
+#subdiv16{
+    float: right;
+    padding-right: 270px;
+    font-size: 18px;
+    color: white;
+}
+#subdiv17{
+    padding-left: 35px;
+    padding-top: 40px;
+}
+#subdiv18{
+    float: right;
+    padding-right: 260px;
+    font-size: 18px;
+    color: white;
+}
+.subdiv2{
+    float: left;
+    color: white;
+    width: 670px;
+    height: 450px;
+}
+.subdiv21{
+    float: left;
+    width: 400px;
+}
+#s1{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+#s2{
+    padding-top: 50px;
+    padding-left: 90px;
+}
+.subdiv22{
+    float: left;
+}
+#s3{
+    padding-top: 50px;
+    padding-left: 150px;
+}
+#s4{
+    padding-top: 50px;
+    padding-left: 150px;
+}
+#s6{
+    color: #949494;
+    font-size: 16px;
+}
+.subdiv23{
+    float: left;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+#s7{
+    padding-top: 20px;
+}
+#s8{
+    padding-left: 370px;
+    padding-top: 40px;
+}
+.seventhpage{
+    width: 100%;
+    background-image: url(abc/layouts/3-Final-WEB_FOOTER.jpeg);
+    height: 290px;
+    background-color:black;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 500px) {
+    #pg {
+      color: green;
+    }
+  }
+
+@media (max-width: 500px) {
+    #pg1 {
+      color: green;
+    }
+  }  
+  
